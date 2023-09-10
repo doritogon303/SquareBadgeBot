@@ -40,7 +40,7 @@ def make_badge(placeid, groupid, name, description, decalid):
     except:
         print("error is making request")
         time.sleep(15)
-        make_badge(placeid, groupid, name, decalid)
+        make_badge(placeid, groupid, name, description, decalid)
         
 
 i = 0
