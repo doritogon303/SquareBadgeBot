@@ -1,4 +1,6 @@
 # SquareBadgeBot
+
+# ⚠️⚠️⚠️ PATCHED
  Badge bot but makes square badges
 
 
